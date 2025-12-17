@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>Surplus Office SE – Office Furniture Inventory</title>
+    <link>https://surplusofficese.com/products.html</link>
+    <description>
+      Select inventories of new and pre-owned office furniture including cubicles, desks, chairs, and workstations.
+    </description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Dec 2025 09:00:00 GMT</lastBuildDate>
+
+    <!-- ITEM 1 -->
+    <item>
+      <title>Knoll Dividends 6x8 65&quot; High</title>
+      <link>https://surplusofficese.com/product.html?68907</link>
+      <guid isPermaLink="true">https://surplusofficese.com/product.html?68907</guid>
+      <description><![CDATA[
+        Location: Atlanta, GA<br/>
+        Category: Used Cubicles<br/>
+        Quantity: 200<br/>
+        Approx. Dimensions: 6x8
+      ]]></description>
+      <media:thumbnail url="https://furniiture-finders.nyc3.cdn.digitaloceanspaces.com/media/14161/1e0b5f373be05971053470e22f402efd6fa0edd6.jpg"/>
+      <media:content url="https://furniiture-finders.nyc3.cdn.digitaloceanspaces.com/media/14161/1e0b5f373be05971053470e22f402efd6fa0edd6.jpg" medium="image"/>
+    </item>
+
+    <!-- ITEM 2 -->
+    <item>
+      <title>Knoll Dividends 6x6</title>
+      <link>https://surplusofficese.com/product.html?68903</link>
+      <guid isPermaLink="true">https://surplusofficese.com/product.html?68903</guid>
+      <description><![CDATA[
+        Location: Atlanta, GA<br/>
+        Category: Used Cubicles<br/>
+        Quantity: 54<br/>
+        Min Purchase: 50<br/>
+        Approx. Dimensions: 6x6
+      ]]></description>
+      <media:thumbnail url="https://furniiture-finders.nyc3.cdn.digitaloceanspaces.com/media/14152/2b68c4388f9ac0fdb54ddaf577fefc8f1b154650.jpg"/>
+      <media:content url="https://furniiture-finders.nyc3.cdn.digitaloceanspaces.com/media/14152/2b68c4388f9ac0fdb54ddaf577fefc8f1b154650.jpg" medium="image"/>
+    </item>
+
+    <!-- ITEM 3 -->
+    <item>
+      <title>Allsteel 6x6 Bullpen Workstations w/ HAT</title>
+      <link>https://surplusofficese.com/product.html?72426</link>
+      <guid isPermaLink="true">https://surplusofficese.com/product.html?72426</guid>
+      <description><![CDATA[
+        Location: Atlanta, GA<br/>
+        Category: Used Cubicles<br/>
+        Quantity: 52<br/>
+        Approx. Dimensions: 6x6
+      ]]></description>
+      <media:thumbnail url="https://furniiture-finders.nyc3.cdn.digitaloceanspaces.com/media/28705/4186ce0293ad876ab403d68a680da136dd89e73a.JPG"/>
+      <media:content url="https://furniiture-finders.nyc3.cdn.digitaloceanspaces.com/media/28705/4186ce0293ad876ab403d68a680da136dd89e73a.JPG" medium="image"/>
+    </item>
+
+  </channel>
+</rss>
